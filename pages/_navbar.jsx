@@ -45,10 +45,10 @@ export default function SneakerNavbar() {
           </Nav>
           <NavbarBrand className="center">SNEAKERS RAFFLES</NavbarBrand>
           <ButtonGroup className="me-auto float-right">
-            <Button className="sign" color="light" href="/">
+            <Button className="sign" color="light" href="/form">
               Sign In
             </Button>
-            <Button className="sign" color="dark" href="/">
+            <Button className="sign" color="dark" href="/form">
               Register
             </Button>
           </ButtonGroup>
