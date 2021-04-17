@@ -48,3 +48,8 @@
 - Formulario en los botones de registro o en:
 
   `http://localhost:3000/form`
+
+
+Video en inglés [aquí](https://youtu.be/kvy09tmtTuA)
+
+Deploy en Netlfy [aquí](https://stupefied-ardinghelli-2995bd.netlify.app/)
