@@ -35,11 +35,11 @@
 
 - O crea la app con:
 
-`$ npm run build`
+  `$ npm run build`
 
 - Y ejecuta la app:
 
-`$ npm run start`
+  `$ npm run start`
 
 - Dirigete a la ruta:
 
